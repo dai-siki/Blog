@@ -1,7 +1,7 @@
 # atom常用插件
 
 ## 实用功能
-- **atom-chs-menu** ——菜单汉化
+- **simplified-chinese-menu** ——汉化
 - **emmet** ——不说了
 - **emmet-snippets-compatibility** ——emmet支持php
 - **trailing-semicolon** ——在行尾添加分号或逗号
@@ -54,6 +54,7 @@
 
 ## markdown
 - **language-markdown** ——如名
+- **markdown-preview** ——markdown编辑实时预览
 - **markdown-scroll-sync** ——markdown同步滚动
 
 ## 不太好用
