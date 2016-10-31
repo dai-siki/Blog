@@ -1,4 +1,4 @@
-# atom自带插件
+# atom常用插件
 
 ## 实用功能
 - **atom-chs-menu** ——菜单汉化
@@ -12,7 +12,6 @@
 - **js-hyperclick**  ——js版hyperclick
 - **autoclose-html** ——自动关闭html标签
 - **minimap** ——像sublime那样的mini代码地图
-- **pigments** ——颜色显示（很好用）
 - **autocomplete-html-entities** ——自动完成html提示
 - **atom-beautify** ——一键美化
 - **php-cs-fixer** ——php一键美化
@@ -28,6 +27,7 @@
 
 ## css相关
 - **css-snippets** ——css和sass代码片段
+- **pigments** ——颜色显示（支持scss）
 - **font-awesome-snippetset** ——如名
 
 ## js相关
